@@ -1,8 +1,10 @@
-Ultrasonic.NodeMCU_Relay
-Uploading Video 2024-01-26 at 17.39.34 (1) (1).mp4…
+NodeMCU_Relay
+Uploading Ultrasonic.Node_MCU.mp4…
 Ultrasonic.NodeMCU_Relay
 
-Overview:This project demonstrates the creation of Ultrasonic.NodeMCU_ relay esp8266.These are the physical objects embedded with sensors, actuators, and connectivity to collect and transmit data,sensors gather data from the environment (e.g., temperature, humidity, motion), while actuators perform actions based on received data.
+Overview:
+
+This project demonstrates the creation of Ultrasonic.NodeMCU_ relay esp8266.These are the physical objects embedded with sensors, actuators, and connectivity to collect and transmit data,sensors gather data from the environment (e.g., temperature, humidity, motion), while actuators perform actions based on received data.
 
 Features:
    
