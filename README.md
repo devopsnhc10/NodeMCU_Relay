@@ -1,5 +1,5 @@
 NodeMCU_Relay
-https://github.com/devopsnhc10/NodeMCU_Relay/assets/126224105/7aec5b69-d0f5-433a-a003-63a3d56fa5f0
+https://github.com/devopsnhc10/NodeMCU_Relay/assets/126224105/519d3488-4039-4d53-8efe-dc8e41cbac47
 Ultrasonic.NodeMCU_Relay
 
 Overview:
